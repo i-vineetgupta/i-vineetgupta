@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @i-vineetgupta
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Data Sciencee from NIET
